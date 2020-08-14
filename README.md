@@ -1,7 +1,7 @@
 
 # CANTINA UNIME
 
-CANTINA FIPE é um site institucional fake de uma pizzaria fictícia, criado apenas para apresentar alguins recursos de HTML e CSS para os alunos. Esse projeto foi desenvolvido durante o curso de férias Desenvolvimento Web com HTML 5, CSS 3 e Javascript que ministrei na Faculdade UNIME de Lauro de Freitas.
+CANTINA UNIME é um site institucional fake de uma pizzaria fictícia, criado apenas para apresentar alguins recursos de HTML e CSS para os alunos. Esse projeto foi desenvolvido durante o curso de férias Desenvolvimento Web com HTML 5, CSS 3 e Javascript que ministrei na Faculdade UNIME de Lauro de Freitas.
 
 
 ## Importante
